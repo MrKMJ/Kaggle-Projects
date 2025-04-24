@@ -2,6 +2,9 @@
 
 This repository contains the code and analysis for the NeurIPS Ariel Data Challenge 2024. The solution focuses on processing and calibrating spectroscopic data from the Ariel space telescope.
 
+Link for competition is below:
+https://www.kaggle.com/competitions/ariel-data-challenge-2024
+
 ## Overview
 
 The core component of the solution is implemented in the Jupyter Notebook `NeurIPS-Ariel Data Challenge 2024 (1).ipynb`. This notebook performs the following key steps:
